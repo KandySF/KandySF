@@ -3,11 +3,11 @@
 - 🤔 Estes são alguns fatos sobre mim:
 - 🎓 Graduanda de Engenharia de Software (Pitágoras Ampli)
 - 😄 Pronouns: ela/dela
-
-<div align="center">
+  
+<div>
   <a href="https://github.com/kandysf">
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=kandySF&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandySF&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kandySF&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandySF&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
 <div>
