@@ -1,4 +1,4 @@
-### Oii, eu sou a Andressa Kaliny.
+### Oii, eu sou a Andressa Kaliny!
 
 - 🤔 Estes são alguns fatos sobre mim:
 - 🎓 Graduanda de Engenharia de Software (Pitágoras Ampli)
