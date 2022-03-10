@@ -1,8 +1,8 @@
 ### Oii, eu sou a Andressa Kaliny!
 
 - 🤔 Estes são alguns fatos sobre mim:
-- 🎓 Graduanda de Engenharia de Software (Pitágoras Ampli)
-- 😄 Pronouns: ela/dela
+- 🎓 Graduanda em Engenharia de Software (Pitágoras Ampli)
+- 😄 Pronomes: ela/dela
   
 <div>
   <a href="https://github.com/kandysf">
