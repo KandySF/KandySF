@@ -1,7 +1,7 @@
 ### Hii, I'm Andressa Kaliny!
 
 - 🤔 These are some facts about me:
-- 🎓 I'm an undergraduate student in Software Engineering at Anhanguera Pitágoras University Center Ampli
+- 🎓 I'm an undergraduate student in Software Engineering at Pitágoras Ampli University Center
 - 😄 Pronouns: she/her
   
 <div align="center">
